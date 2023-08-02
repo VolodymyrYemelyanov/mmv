@@ -10,4 +10,10 @@
     - Symfony CLI
     - Docker
     - Docker-compose
+    - node js and npm
 
+# Launch the development environment 
+    - composer install
+    - npm install
+    - docker-compose up -d
+    - symfony server:start -d (symfony server:stop)
